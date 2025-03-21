@@ -1,4 +1,4 @@
 # PythonBotServer
 
 Requirements
-pip install line-bot-sdk
+- line-bot-sdk installed
